@@ -1,0 +1,173 @@
+[
+  {
+    "id": "login-users",
+    "path": "assets/screens/login-users.webp",
+    "page": 1,
+    "image": 1,
+    "width": 1299,
+    "height": 711,
+    "bytes": 19686
+  },
+  {
+    "id": "login-pin",
+    "path": "assets/screens/login-pin.webp",
+    "page": 1,
+    "image": 2,
+    "width": 1299,
+    "height": 709,
+    "bytes": 12434
+  },
+  {
+    "id": "pos-catalog",
+    "path": "assets/screens/pos-catalog.webp",
+    "page": 2,
+    "image": 1,
+    "width": 1299,
+    "height": 730,
+    "bytes": 33988
+  },
+  {
+    "id": "pos-modifiers",
+    "path": "assets/screens/pos-modifiers.webp",
+    "page": 2,
+    "image": 2,
+    "width": 1299,
+    "height": 730,
+    "bytes": 40076
+  },
+  {
+    "id": "hold-reason",
+    "path": "assets/screens/hold-reason.webp",
+    "page": 3,
+    "image": 1,
+    "width": 1299,
+    "height": 730,
+    "bytes": 30150
+  },
+  {
+    "id": "held-orders",
+    "path": "assets/screens/held-orders.webp",
+    "page": 3,
+    "image": 2,
+    "width": 745,
+    "height": 339,
+    "bytes": 7764
+  },
+  {
+    "id": "held-cancel",
+    "path": "assets/screens/held-cancel.webp",
+    "page": 4,
+    "image": 1,
+    "width": 427,
+    "height": 373,
+    "bytes": 9356
+  },
+  {
+    "id": "order-history",
+    "path": "assets/screens/order-history.webp",
+    "page": 4,
+    "image": 2,
+    "width": 1299,
+    "height": 730,
+    "bytes": 29626
+  },
+  {
+    "id": "sales-reports",
+    "path": "assets/screens/sales-reports.webp",
+    "page": 5,
+    "image": 1,
+    "width": 1299,
+    "height": 730,
+    "bytes": 31812
+  },
+  {
+    "id": "windows-startup",
+    "path": "assets/screens/windows-startup.webp",
+    "page": 5,
+    "image": 2,
+    "width": 1045,
+    "height": 745,
+    "bytes": 29756
+  },
+  {
+    "id": "admin-icon-selection",
+    "path": "assets/screens/admin-icon-selection.webp",
+    "page": 6,
+    "image": 1,
+    "width": 1334,
+    "height": 843,
+    "bytes": 54004
+  },
+  {
+    "id": "admin-category-editor",
+    "path": "assets/screens/admin-category-editor.webp",
+    "page": 7,
+    "image": 1,
+    "width": 1318,
+    "height": 839,
+    "bytes": 50878
+  },
+  {
+    "id": "admin-product-editor",
+    "path": "assets/screens/admin-product-editor.webp",
+    "page": 7,
+    "image": 2,
+    "width": 1328,
+    "height": 838,
+    "bytes": 51198
+  },
+  {
+    "id": "catalog-icon-library",
+    "path": "assets/screens/catalog-icon-library.webp",
+    "page": 8,
+    "image": 1,
+    "width": 970,
+    "height": 524,
+    "bytes": 43166
+  },
+  {
+    "id": "custom-icons",
+    "path": "assets/screens/custom-icons.webp",
+    "page": 8,
+    "image": 2,
+    "width": 942,
+    "height": 533,
+    "bytes": 15792
+  },
+  {
+    "id": "receipt-branding",
+    "path": "assets/screens/receipt-branding.webp",
+    "page": 9,
+    "image": 1,
+    "width": 1206,
+    "height": 771,
+    "bytes": 51632
+  },
+  {
+    "id": "receipt-layout",
+    "path": "assets/screens/receipt-layout.webp",
+    "page": 9,
+    "image": 2,
+    "width": 957,
+    "height": 688,
+    "bytes": 46614
+  },
+  {
+    "id": "receipt-advanced",
+    "path": "assets/screens/receipt-advanced.webp",
+    "page": 10,
+    "image": 1,
+    "width": 951,
+    "height": 688,
+    "bytes": 47184
+  },
+  {
+    "id": "config-transfer",
+    "path": "assets/screens/config-transfer.webp",
+    "page": 10,
+    "image": 2,
+    "width": 1209,
+    "height": 753,
+    "bytes": 33150
+  }
+]
